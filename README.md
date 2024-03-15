@@ -7,7 +7,6 @@ No atual panorama da Inteligência Artificial (IA), Modelos de Linguagem de Gran
 
 ## Solução
 
-Framework para CKL
 O framework CKL é projetado para atualizar regularmente os LLMs com o intuito de incorporar novos conhecimentos e preservar informações importantes e inalteradas. Este sistema é composto por quatro módulos principais:
 
 1. Módulo de Coleta de Dados: Utiliza rastreadores automatizados e APIs para coletar as informações mais recentes de diversas fontes, garantindo uma base de dados atualizada para o treinamento do modelo.
