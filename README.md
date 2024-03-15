@@ -3,7 +3,7 @@
 
 ## Introdução
 
-No atual panorama da Inteligência Artificial (IA), Modelos de Linguagem de Grande Escala (LLMs) desempenham um papel crucial em uma vasta gama de aplicações, desde a resposta automática de perguntas até a verificação de fatos e a geração de diálogos abertos. Contudo, um desafio iminente surge com a rápida evolução do conhecimento mundial: como manter esses modelos atualizados? Irei propor um framework para o Aprendizado Contínuo de Conhecimento (CKL), visando abordar a problemática do desvio de conceito, onde a distribuição de dados muda ao longo do tempo, impactando o desempenho do modelo se não for corretamente gerenciada.
+No atual panorama da Inteligência Artificial (IA), Modelos de Linguagem de Grande Escala (LLMs) desempenham um papel crucial em diversas aplicações, desde a resposta automática de perguntas até a verificação de fatos e a geração de diálogos abertos. Contudo, um desafio surge com a rápida evolução do conhecimento mundial: como manter esses modelos atualizados? Irei propor um framework para o Aprendizado Contínuo de Conhecimento (CKL), com o objetivo de abordar a problemática do desvio de conceito, onde a distribuição de dados muda ao longo do tempo, impactando o desempenho do modelo se não for corretamente gerenciada.
 
 ## Solução
 
